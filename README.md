@@ -7,7 +7,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Spring%20Boot%20and%20Microservices%20developer;1%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=500&height=45"></a>
 </p>  
 
-NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github     
+NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.   
+I have 3+ year of experiance to teach Data Structure & Algorithms, C++, C, Core Java....
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaukatmakandar786&show_icons=true&theme=cobalt&hide=contribs,prs)  
 
