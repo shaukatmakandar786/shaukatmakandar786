@@ -32,10 +32,12 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaukatmakandar786&hide=html,css,javascript&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on Spring Boot And Microservices
-- 🌱 I’m currently learning Spring Boot And Microservices
-- 👯 I’m looking to collaborate on Microservices
-- 🤔 I’m looking for help with Spring Boot
-- 💬 Ask me about Data Structure, C++, Java 8 feature, Spring Framework 
-- 📫 How to reach me: shaukatmakandar786@gmail.com
-- ⚡ Fun fact: Teaching....
+- 🔭 I’m currently working on Spring Boot And Microservices  
+- 🌱 I’m currently learning Microservices  
+- 👯 I’m looking to collaborate on Microservices  
+- 🤔 I’m looking for help with Microservices  
+- 💬 Ask me about Data Structure, C++, OOPS, Java 8 Feature, Collections, MultiThreading, Spring Data JPa, Spring WEB, MYSQL Driver.  
+- 📫 How to reach me: shaukatmakandar786@gmail.com  
+- ⚡ Fun fact: Teaching....  
+
+ [![Shaukat's github activity graph](https://activity-graph.herokuapp.com/graph?username=shaukatmakandar786&theme=react-dark)](https://github.com/zahidchand/github-readme-activity-graph)
