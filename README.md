@@ -30,7 +30,7 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaukatmakandar786&show_icons=true&theme=cobalt&hide=contribs,prs)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaukatmakandar786&hide=html,css,javascript&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaukatmakandar786&hide=html&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on Spring Boot And Microservices  
 - 🌱 I’m currently learning Microservices  
