@@ -30,7 +30,9 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaukatmakandar786&show_icons=true&theme=cobalt&hide=contribs,prs)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaukatmakandar786&hide=html,scss,css,javascript&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaukatmakandar786&hide=html,scss,css,less&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Shaukat's github activity graph](https://activity-graph.herokuapp.com/graph?username=shaukatmakandar786&theme=react-dark)](https://github.com/zahidchand/github-readme-activity-graph)
 
 - 🔭 I’m currently working on Spring Boot And Microservices  
 - 🌱 I’m currently learning Microservices  
@@ -40,4 +42,4 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 - 📫 How to reach me: shaukatmakandar786@gmail.com  
 - ⚡ Fun fact: Teaching....  
 
- [![Shaukat's github activity graph](https://activity-graph.herokuapp.com/graph?username=shaukatmakandar786&theme=react-dark)](https://github.com/zahidchand/github-readme-activity-graph)
+ 
