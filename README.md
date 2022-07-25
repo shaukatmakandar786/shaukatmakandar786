@@ -4,7 +4,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Spring%20Boot%20And%20Microservices%20Developer;1%2B%20years%20of%20coding%20experience;3%2B%20years%20of%20teaching%20experience;Always%20ready%20to%20learn%20new%20things&center=true&width=500&height=45"></a>
+   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Spring%20Boot%20And%20Microservices%20Developer;1%2B%20years%20of%20industrial%20experience;3%2B%20years%20of%20teaching%20experience;Always%20ready%20to%20learn%20new%20things&center=true&width=500&height=45"></a>
 </p> 
 
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.I have 3+ year o f  teaching experiance.I train so many students like Data Structure, CPP, C, Java. I also have 1+ year of industrial experiance in Java, Spring Boot & Microservices
