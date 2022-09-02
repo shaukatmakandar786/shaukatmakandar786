@@ -8,7 +8,22 @@
 </p> 
 
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.I have 3+ year o f  teaching experiance.I train so many students like Data Structure, CPP, C, Java. I also have 1+ year of industrial experiance in Java, Spring Boot & Microservices
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+### Skills:
+
+Java , Spring Boot, Microservices
+Spring Data JPA, Restfull Service,
+Spring Security ( JWT, KeyCloak )
+Java 8 features ( Stream Api, Lambda Function, Functional Interface, Default Method, Static Method etc...)
+
+Swagger, Postman, Workbench, GitHub
+Bitbucket, git, IntelliJ Idea, Spring Tool Suit 
+
+C, CPP, Data Structure & Algorithms
+
+I have confidence to handle backend with Spring Framework.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
