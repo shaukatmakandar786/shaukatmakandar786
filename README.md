@@ -13,24 +13,32 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 
 Skills:
 
-Java , Spring Boot, Microservices
-Spring Data JPA, Spring Security ( JWT, KeyCloak )
-Java 8 features ( Stream Api, Lambda Function, Functional Interface, Default Method, Static Method etc...)
+Java , Spring Boot, Microservices  
+Spring Security ( JWT, KeyCloak )  
+Spring Data JPA  
 
-Restfull Services:
-XML & JAX-B api
-JSON & JACKSON
-Swagger Documentation
-PostMan
-REST Client(RestTemplate , WebClient)
-Exception Handling
+Restfull Services:  
+XML & JAX-B api  
+JSON & JACKSON api  
+Swagger Documentation  
+PostMan  
+REST Client(RestTemplate , WebClient)  
+Exception Handling   
 
-Workbench, GitHub
-Bitbucket, git, IntelliJ Idea, Spring Tool Suit, Eclipse, Maven Tool
+Java 8 features:  
+Stream Api, Lambda Function, Functional Interface, Default Method, Static Method etc...  
 
-C, CPP, Data Structure & Algorithms
+Tools:  
+Workbench, GitHub  
+Bitbucket, git  
+IntelliJ Idea  
+Spring Tool Suit  
+Eclipse, Maven Tool  
 
-I have confidence to handle backend with Spring Framework.
+C, CPP, Data Structure & Algorithms  
+
+I have confidence to handle backend with Spring Framework.  
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### :hammer_and_wrench: Languages and Tools :
 
