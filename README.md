@@ -19,7 +19,7 @@ Spring Security ( JWT, KeyCloak )
 Java 8 features ( Stream Api, Lambda Function, Functional Interface, Default Method, Static Method etc...)
 
 Swagger, Postman, Workbench, GitHub
-Bitbucket, git, IntelliJ Idea, Spring Tool Suit 
+Bitbucket, git, IntelliJ Idea, Spring Tool Suit, Maven
 
 C, CPP, Data Structure & Algorithms
 
