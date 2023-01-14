@@ -72,11 +72,11 @@ I have confidence to handle backend with Spring Framework.
 </div>
 ---------------------------------------------------------------------------------------------------------------------------------------------------  
 
-[![Shaukat's github activity graph](https://activity-graph.herokuapp.com/graph?username=shaukatmakandar786&theme=react-dark)](https://github.com/zahidchand/github-readme-activity-graph)
+<!-- [![Shaukat's github activity graph](https://activity-graph.herokuapp.com/graph?username=shaukatmakandar786&theme=react-dark)](https://github.com/zahidchand/github-readme-activity-graph) -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaukatmakandar786&show_icons=true&theme=cobalt&hide=contribs,prs)  
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaukatmakandar786&show_icons=true&theme=cobalt&hide=contribs,prs)  
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaukatmakandar786&hide=html,scss,css,less&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaukatmakandar786&hide=html,scss,css,less&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <img  alt="Coding" width="350" height="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
