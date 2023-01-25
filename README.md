@@ -80,7 +80,6 @@ I have confidence to handle backend with Spring Framework.
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaukatmakandar786&hide=html,scss,css,less&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
  
- ![snake gif](https://github.com/shaukatmakandar786/shaukatmakandar786/blob/output/github-contribution-grid-snake.gif)
 
 <img  alt="Coding" width="350" height="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
